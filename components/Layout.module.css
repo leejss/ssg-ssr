@@ -1,0 +1,8 @@
+.Layout {
+  height: 100vh;
+  padding: 16px;
+}
+
+.Layout h1 {
+  text-align: center;
+}
