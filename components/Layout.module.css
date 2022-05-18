@@ -1,6 +1,8 @@
 .Layout {
   height: 100vh;
   padding: 16px;
+  font-weight: bold;
+  font-size: 1.2rem;
 }
 
 .Layout h1 {
